@@ -1,0 +1,45 @@
+C:\Users\Mooska\Dropbox\Wasserstrom Note Tool\bin\Debug\Wasserstrom Note Tool.exe.config
+C:\Users\Mooska\Dropbox\Wasserstrom Note Tool\bin\Debug\Wasserstrom Note Tool.exe
+C:\Users\Mooska\Dropbox\Wasserstrom Note Tool\bin\Debug\Wasserstrom Note Tool.pdb
+C:\Users\Mooska\Dropbox\Wasserstrom Note Tool\obj\Debug\Wasserstrom Note Tool.csprojResolveAssemblyReference.cache
+C:\Users\Mooska\Dropbox\Wasserstrom Note Tool\obj\Debug\MainWindow.g.cs
+C:\Users\Mooska\Dropbox\Wasserstrom Note Tool\obj\Debug\App.g.cs
+C:\Users\Mooska\Dropbox\Wasserstrom Note Tool\obj\Debug\Wasserstrom Note Tool_MarkupCompile.cache
+C:\Users\Mooska\Dropbox\Wasserstrom Note Tool\obj\Debug\Wasserstrom Note Tool_MarkupCompile.lref
+C:\Users\Mooska\Dropbox\Wasserstrom Note Tool\obj\Debug\MainWindow.baml
+C:\Users\Mooska\Dropbox\Wasserstrom Note Tool\obj\Debug\Wasserstrom Note Tool.g.resources
+C:\Users\Mooska\Dropbox\Wasserstrom Note Tool\obj\Debug\Wasserstrom_Note_Tool.Properties.Resources.resources
+C:\Users\Mooska\Dropbox\Wasserstrom Note Tool\obj\Debug\Wasserstrom Note Tool.csproj.GenerateResource.Cache
+C:\Users\Mooska\Dropbox\Wasserstrom Note Tool\obj\Debug\Wasserstrom Note Tool.exe
+C:\Users\Mooska\Dropbox\Wasserstrom Note Tool\obj\Debug\Wasserstrom Note Tool.pdb
+C:\Users\Mooska\Dropbox\Wasserstrom Note Tool\obj\Debug\MainMenu.g.cs
+C:\Users\Mooska\Dropbox\Wasserstrom Note Tool\obj\Debug\MainMenu.baml
+C:\Users\Mooska\Dropbox\Wasserstrom Note Tool\obj\Debug\OrderPage.g.cs
+C:\Users\Mooska\Dropbox\Wasserstrom Note Tool\obj\Debug\OrderPage.baml
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\bin\Debug\Wasserstrom Note Tool.exe.config
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\Wasserstrom Note Tool.exe
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\Wasserstrom Note Tool.pdb
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\bin\Debug\Wasserstrom Note Tool.exe
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\bin\Debug\Wasserstrom Note Tool.pdb
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\Wasserstrom Note Tool.csprojResolveAssemblyReference.cache
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\OrderPage.baml
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\MainMenu.g.cs
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\MainWindow.g.cs
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\OrderPage.g.cs
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\App.g.cs
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\Wasserstrom Note Tool_MarkupCompile.cache
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\Wasserstrom Note Tool_MarkupCompile.lref
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\MainMenu.baml
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\MainWindow.baml
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\Wasserstrom Note Tool.g.resources
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\Wasserstrom_Note_Tool.Properties.Resources.resources
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\Wasserstrom Note Tool.csproj.GenerateResource.Cache
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\DamageFormula.g.cs
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\DamageFormula.baml
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\ReturnCredit.g.cs
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\ReturnCredit.baml
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\ReturnCreditMenu.g.cs
+C:\Users\ryanatkins\Dropbox\Wasserstrom Note Tool\obj\Debug\ReturnCreditMenu.baml
+E:\users\mooska\Dropbox\Wasserstrom Note Tool\bin\Debug\Wasserstrom Note Tool.exe.config
+E:\users\mooska\Dropbox\Wasserstrom Note Tool\obj\Debug\Wasserstrom Note Tool.exe
+E:\users\mooska\Dropbox\Wasserstrom Note Tool\obj\Debug\Wasserstrom Note Tool.pdb
