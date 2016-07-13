@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Wasserstrom_Note_Tool"
         mc:Ignorable="d"
-        Title="Note Tool" Height="391.474" Width="548.266" Background="#FF69C5C5" ResizeMode="NoResize" Icon="double-quote-sans-left-512.ico">
+        Title="Note Tool" Height="391.474" Width="548.266" Background="#FF69C5C5" ResizeMode="CanMinimize" Icon="double-quote-sans-left-512.ico">
     <Window.TaskbarItemInfo>
         <TaskbarItemInfo/>
     </Window.TaskbarItemInfo>
